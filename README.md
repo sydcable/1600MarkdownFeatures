@@ -1,6 +1,6 @@
 # 1600MarkdownFeatures
 
-This is a **README** file that contains *links* to other **Markdown** files containing information.
+This is a **README** file that contains *links* to other **Markdown** files containing ~~useful~~ information about me!
 
 ## Links:
 - [About Me](aboutMe.md)
