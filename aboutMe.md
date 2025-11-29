@@ -1,4 +1,4 @@
-[< back](README.md)
+[< Back](README.md)
 # About Me
 
 My name is **Sydney Cable** and I am a Senior at the *University of Missouri - Columbia* studying *Information Technology*
