@@ -4,7 +4,7 @@
 My name is **Sydney Cable** and I am a Senior at the *University of Missouri - Columbia* studying *Information Technology*
 
 ### These are some of my favorite things:
-1. ==My cats (Otis and Goldie)==
+1. My cats (Otis and Goldie)
 2. My family
 3. Hanging out with my friends
 4. Sushi
